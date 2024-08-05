@@ -1,6 +1,6 @@
 {
     "name": "smiirl-clock",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "description": "Update your Smiirl counter to show the current time.",
     "main": "index.js",
     "bin": {
