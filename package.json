@@ -1,0 +1,36 @@
+{
+    "name": "smiirl-clock",
+    "version": "1.0.3",
+    "description": "Update your Smiirl counter to show the current time.",
+    "main": "index.js",
+    "bin": {
+        "smiirl-clock": "./index.js"
+    },
+    "scripts": {
+        "start": "smiirl-clock YOUR_DEVICE_ID YOUR_TOKEN"
+    },
+    "author": "Stefan Kunze",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "node-cron": "^2.0.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stefankunze/smiirl-clock.git"
+    },
+    "bugs": {
+        "url": "https://github.com/stefankunze/smiirl-clock/issues"
+    },
+    "homepage": "https://github.com/stefankunze/smiirl-clock#readme",
+    "keywords": [
+        "smiirl",
+        "counter",
+        "clock",
+        "time",
+        "api",
+        "recycling",
+        "upcycling",
+        "iot",
+        "internet of things"
+    ]
+}
